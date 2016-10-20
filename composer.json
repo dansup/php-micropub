@@ -1,7 +1,7 @@
 {
     "name": "dansup/php-micropub",
     "type": "library",
-    "description": ":package_description",
+    "description": "Micropub is an open API standard used to create posts on one's own domain using third-party clients. Web apps and native apps (e.g., iPhone, Android) can use Micropub to post short notes, photos, events or other posts to your own site.",
     "keywords": [
         "dansup",
         "php-micropub",
