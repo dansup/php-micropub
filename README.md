@@ -8,7 +8,7 @@
 [![Total Downloads][ico-downloads]][link-downloads]
 
 
-Micropub is a spec to create content on a server using web or native app clients. Micropub is primarily focused around creating "posts" (individual pieces of content such as blog posts, photos, short notes, or responses) on a website, although it can be used for other kinds of content as well. ** This library is in active development and is not recommended for use **
+Micropub is a spec to create content on a server using web or native app clients. Micropub is primarily focused around creating "posts" (individual pieces of content such as blog posts, photos, short notes, or responses) on a website, although it can be used for other kinds of content as well. **This library is in active development and is not recommended for use**
 
 ## Install
 
@@ -41,7 +41,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) and [CONDUCT](CONDUCT.md) for details
 
 ## Security
 
-If you discover any security related issues, please email :author_email instead of using the issue tracker.
+If you discover any security related issues, please email `danielsupernault@gmail.com` instead of using the issue tracker.
 
 ## Credits
 
